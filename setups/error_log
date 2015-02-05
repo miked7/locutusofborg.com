@@ -1,0 +1,34 @@
+[28-Nov-2014 14:43:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/miked7/public_html/setups/display-setup.php:50) in /home1/miked7/public_html/setups/display-setup.php on line 50
+[30-Nov-2014 20:00:22 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home1/miked7/public_html/setups/f1-2014-setup-car.php on line 91
+[30-Nov-2014 20:01:08 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home1/miked7/public_html/setups/f1-2014-setup-car.php on line 91
+[30-Nov-2014 20:01:26 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home1/miked7/public_html/setups/f1-2014-setup-car.php on line 91
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formCircuit not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 83
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formLapTimeMinuteSecond not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 89
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formAeroFront not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 102
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formAeroRear not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 108
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formBrakeBalanceFront not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 122
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formBrakeBalanceRear not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 128
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formBrakePressure not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 136
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formBrakeSize not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 142
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formBalanceRollFront not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 156
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formBalanceRollRear not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 162
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formSuspensionHeightFront not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 176
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formSuspensionHeightRear not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 182
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formSuspensionSpringFront not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 190
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formSuspensionSpringRear not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 196
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formGearbox1 not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 210
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formGearbox2 not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 218
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formGearbox3 not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 226
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formGearbox4 not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 234
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formGearbox5 not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 242
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formGearbox6 not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 250
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formGearbox7 not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 258
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formAlignmentCamberFront not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 272
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formAlignmentCamberRear not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 278
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formAlignmentToeFront not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 286
+[30-Nov-2014 20:03:42 America/Chicago] PHP Warning:  mysql_result(): formAlignmentToeRear not found in MySQL result index 3 in /home1/miked7/public_html/setups/display-setup.php on line 292
+[30-Nov-2014 20:21:44 America/Chicago] PHP Fatal error:  Call to undefined function com_create_guid() in /home1/miked7/public_html/setups/f1-2014-setup-car.php on line 135
+[01-Dec-2014 16:00:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/miked7/public_html/setups/f1-2014-setup-car.php:137) in /home1/miked7/public_html/setups/f1-2014-setup-car.php on line 164
+[01-Dec-2014 16:00:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/miked7/public_html/setups/f1-2014-setup-car.php:137) in /home1/miked7/public_html/setups/f1-2014-setup-car.php on line 166
+[01-Dec-2014 16:01:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/miked7/public_html/setups/f1-2014-setup-car.php:137) in /home1/miked7/public_html/setups/f1-2014-setup-car.php on line 164
+[01-Dec-2014 16:01:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/miked7/public_html/setups/f1-2014-setup-car.php:137) in /home1/miked7/public_html/setups/f1-2014-setup-car.php on line 166
